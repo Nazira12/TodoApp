@@ -31,4 +31,4 @@ const CreateTodo = (props) => {
 
    export default CreateTodo
 
-   //отправить значение в инпута в туду 
+   
